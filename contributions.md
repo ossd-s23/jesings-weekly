@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 2   | https://github.com/joannakl/ossd/pull/36  | course website    |   I fixed a broken link.    |
+| Feb 2   | [pull request 36](https://github.com/joannakl/ossd/pull/36)  | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |

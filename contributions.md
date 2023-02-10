@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 2   | [pull request 36](https://github.com/joannakl/ossd/pull/36)  | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 10    | [issue 44](https://github.com/joannakl/ossd/issues/44)    | course website    | I reported an inconsistent dating scheme.     |
 |     |     |     |      |

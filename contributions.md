@@ -36,3 +36,4 @@ Replace the first row with your own contribution.
 | Mar 27    | [Pull request 66 review](https://github.com/Lind-Project/Lind-GlibC/pull/66) | Pull request review | Pull request review on signal handling addition to open source research project |
 | April 15  | [Pull request 135 review](https://github.com/Lind-Project/native_client/pull/135) | Pull request review | Pull request review on signal handling addition to open source research project |
 | April 21  | [Pull request 80](https://github.com/joannakl/ossd/pull/80) | Course website | Fixed reported typo on course website |
+| April 23  | [OSM change](https://www.openstreetmap.org/changeset/135281179) | Openstreet Map feature | Removed location of a permanently closed resataurant on OpenStreet Map |
